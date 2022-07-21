@@ -1,7 +1,7 @@
 requests
-zstandard >=0.15
+zstandard ==0.18.0
 # test
-pytest >=7
+pytest ==7.1.2
 pytest-cov
 pytest-mock
 boto3
@@ -11,4 +11,4 @@ bottle
 furo
 sphinx
 myst-parser
-mdit-py-plugins>=0.3.0
+mdit-py-plugins==0.3.0
